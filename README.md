@@ -1,3 +1,3 @@
 Messenger program with socket programming written in C#
 =======================================================
-![Alt text](/https://github.com/Pyowoojin/ChattingProgram/blob/main/IMG.JPG)
+<img src="/https://github.com/Pyowoojin/ChattingProgram/blob/main/IMG.JPG" width="480px" height="820px" title="Image" alt="example"></img><br/>
